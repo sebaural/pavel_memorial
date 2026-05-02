@@ -1,0 +1,338 @@
+[
+  {
+    "type": "directory",
+    "name": "2010",
+    "contents": [
+      {
+        "type": "file",
+        "src": "/assets/2010/IMG-20191221-WA0002.jpg"
+      }
+    ]
+  },
+  {
+    "type": "directory",
+    "name": "2011",
+    "contents": [
+      {
+        "type": "file",
+        "src": "/assets/2011/IMG_0585.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2011/IMG_0587.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2011/SAM_1441.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2011/SAM_1443.jpg"
+      }
+    ]
+  },
+  {
+    "type": "directory",
+    "name": "2012",
+    "contents": [
+      {
+        "type": "file",
+        "src": "/assets/2012/IMG_0480.jpg"
+      }
+    ]
+  },
+  {
+    "type": "directory",
+    "name": "2014",
+    "contents": [
+      {
+        "type": "file",
+        "src": "/assets/2014/IMG_0566.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2014/IMG_0568.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2014/IMG_0607.jpg"
+      }
+    ]
+  },
+  {
+    "type": "directory",
+    "name": "2015",
+    "contents": [
+      {
+        "type": "file",
+        "src": "/assets/2015/IMG_0581.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2015/IMG_0582.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2015/SAM_3557.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2015/SAM_3561.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2015/SAM_3566.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2015/SAM_3572.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2015/SAM_3580.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2015/SAM_3587.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2015/SAM_3614.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2015/SAM_3650.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2015/SAM_3652.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2015/SAM_3653.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2015/SAM_3654.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2015/SAM_3657.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2015/SAM_3659.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2015/SAM_3660.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2015/SAM_3672.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2015/SAM_3712.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2015/SAM_3730.jpg"
+      }
+    ]
+  },
+  {
+    "type": "directory",
+    "name": "2016",
+    "contents": [
+      {
+        "type": "file",
+        "src": "/assets/2016/chel_0272.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2016/chel_0283.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2016/chel_0286.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2016/chel_0300.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2016/chel_0302.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2016/chel_0541.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2016/DSCF0324.jpg"
+      }
+    ]
+  },
+  {
+    "type": "directory",
+    "name": "2017-2020",
+    "contents": [
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/2020_corona-times.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/chel_2018_10.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/chel_2018_14.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/chel_2018_15.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/chel_2018_1.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/chel_2018_2.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/chel_2018_3.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/chel_2018_4.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/chel_2018_5.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/chel_2018_6.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/chel_2018_7.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/chel_2018_8.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/chel_2018_9.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/IMG_20171231_122015.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/IMG_20171231_122039.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/IMG_20171231_153925.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/IMG_20180102_143020.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/IMG_20180805_162755.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/IMG_20180816_212238.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/IMG_20190209_151544.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/IMG_20190209_153623.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/IMG_20190209_170639.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/IMG_20190209_171339.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/IMG_20190209_175727.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/IMG_20190209_180626.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/IMG_20190219_145615.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/IMG-20200107-WA0017.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/chel_2018_11.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/chel_2018_12.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2017-2020/chel_2018_13.jpg"
+      }
+    ]
+  },
+  {
+    "type": "directory",
+    "name": "2021-2023",
+    "contents": [
+      {
+        "type": "file",
+        "src": "/assets/2021-2023/5395454667787451018_121.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2021-2023/5411316248299555704_121.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2021-2023/5411316248299555705_121.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2021-2023/5411316248299555706_121.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2021-2023/5411316248299555707_121.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/2021-2023/5411316248299555708_121.jpg"
+      },
+      {
+        "type": "file",
+        "src": "/assets/chiesa_di_s.sabastian.jpg"
+      }
+    ]
+  }
+]

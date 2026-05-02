@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+  font-family: Monserat, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  --gold-color: #ffa212;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background-image: url(assets/header_bg_2.png);
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-color: #000;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+button:hover {
+  border-color: #646cff;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+/*CUSTOM STYLES*/
+
+#root {
+  max-width: 100%;
+  margin: 0 auto;
+   padding: 0;
+  text-align: center;
+}
+
+#hero-img img {
+  border-radius: 12px;
+  width: 70vw;
+}
+
+/*    HEADER          */
+#header-container h1,
+#header-container h2{
+  font-weight: 300;
+}
+#header-container h3 {
+  color: var(--gold-color);
+  letter-spacing: 2px;
+  font-weight: 600;
+  word-spacing: 3px;
+}
+
+#header-container h2 {
+  font-size: 2.2rem;
+}
+
+@media all and (max-width:600px) {
+  #header-container h1 {
+    font-size: 1.8rem;
+    line-height: 1.3em;
+  }
+  #header-container h2 {
+    font-size: 1.4rem;
+  }
+  #header-container h3 {
+    font-weight: 400;
+  }
+}
+
+/*    END HEADER          */
+
+/*      CARD STYLES       */
+.card-holder {
+  width: 65vw;
+  height: auto;
+  text-align: center;
+}
+
+@media all and (max-width:600px) {
+  .card-holder {
+    width: 90vw;
+  }
+}
+
+.img-holder img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container h3 {
+  color: var(--gold-color);
+  font-size: 2rem;
+  font-weight: 300;
+}
+
+ .card-container .receptor {
+   margin: 0;
+   padding: 0;
+   align-items: center;
+   display: flex;
+   flex-direction: column;
+  list-style: none;
+ }
+
+.card-container .card-item {
+  margin: 0 0 12px;
+}
+
+/*    END  CARD STYLES       */
