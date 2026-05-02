@@ -143,6 +143,10 @@ button:focus-visible {
     font-weight: 400;
   }
 
+  #hero-img img {
+  width: 90vw;
+}
+
   .card-holder {
     width: 90vw;
   }
