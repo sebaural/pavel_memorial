@@ -112,8 +112,10 @@ button:focus-visible {
 
 .card-container h3 {
   color: var(--gold-color);
-  font-size: 2rem;
-  font-weight: 300;
+  font-size: 1.6rem;
+    font-weight: 400;
+    margin: 20px 0 0;
+    padding: 0 0 4px;
 }
 
 .card-container .receptor {

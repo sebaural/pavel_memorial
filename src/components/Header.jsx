@@ -1,4 +1,5 @@
-import FrontPic from "/assets/2021-2023/5395454667787451018_121.jpg";
+/* import FrontPic from "/assets/2021-2023/5395454667787451018_121.jpg"; */
+import FrontPic from "/assets/2021-2023/pavel_sevostianov.png";
 
 export default function Header() {
 
@@ -9,7 +10,7 @@ export default function Header() {
       <h3>23/02/1972 - 05/05/2023</h3>
       <h2>МЕМОРИАЛ</h2>
       <div id="hero-img">
-        <img src={FrontPic} alt={FrontPic}/>
+        <img src={FrontPic} alt="Павел Леонидович Севостьянов"/>
       </div>
     </div>
 
