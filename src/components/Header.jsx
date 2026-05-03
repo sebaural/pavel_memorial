@@ -1,5 +1,5 @@
 /* import FrontPic from "/assets/2021-2023/5395454667787451018_121.jpg"; */
-import FrontPic from "/assets/2021-2023/pavel_sevostianov.png";
+import FrontPic from "/assets/2021-2023/pavel_sevostianov.jpg";
 
 export default function Header() {
 
